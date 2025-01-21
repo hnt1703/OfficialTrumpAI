@@ -1,0 +1,236 @@
+Uri: https://trumpcoinmaga.com/
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\index.htm
+Content Type: text/html
+
+Uri: https://trumpcoinmaga.com/css/style.min.css?_v=20240903111320
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\css\style.min.css
+Content Type: text/css
+
+Uri: https://trumpcoinmaga.com/favicon.ico
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://trumpcoinmaga.com/fonts/FSP DEMO - Flexible H900 W200.woff2
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\fonts\FSP DEMO - Flexible H900 W200.woff2
+Content Type: font/woff2
+
+Uri: https://trumpcoinmaga.com/fonts/SG - Europa Grotesk SH OP Bold Extended.woff2
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\fonts\SG - Europa Grotesk SH OP Bold Extended.woff2
+Content Type: font/woff2
+
+Uri: https://trumpcoinmaga.com/img/about/01.mp4
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\about\01.mp4
+Content Type: video/mp4
+
+Uri: https://trumpcoinmaga.com/img/about/about.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\about\about.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/about/bg.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\about\bg.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/about/content-dec.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\about\content-dec.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/about/title-dec.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\about\title-dec.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/decor.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\decor.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/flag-f1.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\flag-f1.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/flag-f2.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\flag-f2.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/hero/bg.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\hero\bg.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/hero/flag.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\hero\flag.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/hero/hero.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\hero\hero.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/hero/title-decor.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\hero\title-decor.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/01.mp3
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\01.mp3
+Content Type: audio/mpeg
+
+Uri: https://trumpcoinmaga.com/img/how/02.mp3
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\02.mp3
+Content Type: audio/mpeg
+
+Uri: https://trumpcoinmaga.com/img/how/03.mp3
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\03.mp3
+Content Type: audio/mpeg
+
+Uri: https://trumpcoinmaga.com/img/how/04.mp3
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\04.mp3
+Content Type: audio/mpeg
+
+Uri: https://trumpcoinmaga.com/img/how/05.mp3
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\05.mp3
+Content Type: audio/mpeg
+
+Uri: https://trumpcoinmaga.com/img/how/bg.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\bg.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/how-player.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\how-player.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/how-top.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\how-top.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/t1.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\t1.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/t2.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\t2.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/t3.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\t3.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/how/t4.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\how\t4.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/join/bg.jpg
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\join\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://trumpcoinmaga.com/img/logo-f.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\logo-f.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/logo.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\logo.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/osnovo.svg
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\osnovo.svg
+Content Type: image/svg+xml
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/01.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\01.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/02.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\02.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/03.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\03.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/1b.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\1b.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/bg.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\bg.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/ca.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\ca.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/tokenomics/copy.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\tokenomics\copy.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/arrow.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\arrow.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/bg.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\bg.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/box-1.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\box-1.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/box-2.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\box-2.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/box-3.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\box-3.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flag.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flag.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/01.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\01.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/02.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\02.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/03.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\03.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/04.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\04.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/05.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\05.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/06.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\06.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/07.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\07.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/08.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\08.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/09.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\09.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/flags/10.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\flags\10.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/title-decor.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\title-decor.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/img/vote/trump.png
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\img\vote\trump.png
+Content Type: image/png
+
+Uri: https://trumpcoinmaga.com/js/app.min.js?_v=20240903111320
+File Name: D:\Website\Cyotek\trumpcoinmaga.com\js\app.min.js
+Content Type: application/javascript
+
