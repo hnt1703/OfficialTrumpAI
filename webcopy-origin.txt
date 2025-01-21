@@ -1,0 +1,280 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: D:\Website\Cyotek\gettrumpmemes.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-copyclip@1/copyclip.js
+File Name: D:\Website\Cyotek\gettrumpmemes.com\npm\@finsweet\attributes-copyclip@1\copyclip.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=676715b9a1e3ee4a3dec8579
+File Name: D:\Website\Cyotek\gettrumpmemes.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/
+File Name: D:\Website\Cyotek\gettrumpmemes.com\index.htm
+Content Type: text/html
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-browser.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-error.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-ok.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-icon-server.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/cdn-cgi/l/email-protection
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://gettrumpmemes.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://gettrumpmemes.com/cdn-cgi/styles/cf.errors.css
+File Name: D:\Website\Cyotek\gettrumpmemes.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://gettrumpmemes.com/contact-us
+File Name: D:\Website\Cyotek\gettrumpmemes.com\contact-us.html
+Content Type: text/html
+
+Uri: https://gettrumpmemes.com/css/components.css
+File Name: D:\Website\Cyotek\gettrumpmemes.com\css\components.css
+Content Type: text/css
+
+Uri: https://gettrumpmemes.com/css/normalize.css
+File Name: D:\Website\Cyotek\gettrumpmemes.com\css\normalize.css
+Content Type: text/css
+
+Uri: https://gettrumpmemes.com/css/relume-template---sept-20-ecece4197fc38.css
+File Name: D:\Website\Cyotek\gettrumpmemes.com\css\relume-template---sept-20-ecece4197fc38.css
+Content Type: text/css
+
+Uri: https://gettrumpmemes.com/fonts/fa-brands-400.woff2
+File Name: D:\Website\Cyotek\gettrumpmemes.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://gettrumpmemes.com/fonts/fa-regular-400.woff2
+File Name: D:\Website\Cyotek\gettrumpmemes.com\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://gettrumpmemes.com/fonts/fa-solid-900.woff2
+File Name: D:\Website\Cyotek\gettrumpmemes.com\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://gettrumpmemes.com/images/Black-gold-wave_1Black-gold-wave.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Black-gold-wave_1Black-gold-wave.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/chevron-down-white.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\chevron-down-white.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/chevron-down.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/Community-top-image_1Community-top-image.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Community-top-image_1Community-top-image.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/Community5_1Community5.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Community5_1Community5.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/dt_signature.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\dt_signature.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/favicon.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/Grain_50p.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Grain_50p.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/Grain_Latest.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Grain_Latest.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/icons8-apple-pay.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-apple-pay.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icons8-mastercard-1.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-mastercard-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icons8-twitterx-1.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-twitterx-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icons8-usdc.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-usdc.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icons8-venmo-is-a-mobile-payment-service-owned-by-paypal.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-venmo-is-a-mobile-payment-service-owned-by-paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icons8-visa-1.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icons8-visa-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/icon_chevron_up.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\icon_chevron_up.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/IMG_4923_clipped_rev_1.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\IMG_4923_clipped_rev_1.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/intothe-rainbow-9.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\intothe-rainbow-9.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/iStock-2156293682.jpg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\iStock-2156293682.jpg
+Content Type: image/jpeg
+
+Uri: https://gettrumpmemes.com/images/moonshot_light-p-1080.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\moonshot_light-p-1080.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/moonshot_light-p-500.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\moonshot_light-p-500.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/moonshot_light-p-800.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\moonshot_light-p-800.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/moonshot_light.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\moonshot_light.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/rippling-target-2.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\rippling-target-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/images/solana-sol-logo_1solana-sol-logo.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\solana-sol-logo_1solana-sol-logo.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/stars-stripes-2_1stars-stripes-2.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\stars-stripes-2_1stars-stripes-2.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/stars-stripes-3_1stars-stripes-3.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\stars-stripes-3_1stars-stripes-3.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/T-Fight-Figure-3_1T-Fight-Figure-3.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\T-Fight-Figure-3_1T-Fight-Figure-3.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/T-Meme-Logo_1.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\T-Meme-Logo_1.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/T-Meme-Logo_1T-Meme-Logo.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\T-Meme-Logo_1T-Meme-Logo.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/TMC-Allocation-Report-6-p-1080.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TMC-Allocation-Report-6-p-1080.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/TMC-Allocation-Report-6-p-500.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TMC-Allocation-Report-6-p-500.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/TMC-Allocation-Report-6-p-800.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TMC-Allocation-Report-6-p-800.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/TMC-Allocation-Report-6.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TMC-Allocation-Report-6.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/trump-favicon-256.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\trump-favicon-256.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/trump-fight-card-in-circle_1.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\trump-fight-card-in-circle_1.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/trump-silhouette.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\trump-silhouette.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/TrumpCard_EnjoyMySneakers_Signiture-680_1.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TrumpCard_EnjoyMySneakers_Signiture-680_1.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/TrumpCard_EnjoyMySneakers_Signiture-680_1TrumpCard_EnjoyMySneakers_Signiture-680.webp
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\TrumpCard_EnjoyMySneakers_Signiture-680_1TrumpCard_EnjoyMySneakers_Signiture-680.webp
+Content Type: image/webp
+
+Uri: https://gettrumpmemes.com/images/webclip.png
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\webclip.png
+Content Type: image/png
+
+Uri: https://gettrumpmemes.com/images/Webflow-Background.svg
+File Name: D:\Website\Cyotek\gettrumpmemes.com\images\Webflow-Background.svg
+Content Type: image/svg+xml
+
+Uri: https://gettrumpmemes.com/js/relume-template---sept-20-ecece4197fc38.js
+File Name: D:\Website\Cyotek\gettrumpmemes.com\js\relume-template---sept-20-ecece4197fc38.js
+Content Type: text/javascript
+
+Uri: https://gettrumpmemes.com/privacy
+File Name: D:\Website\Cyotek\gettrumpmemes.com\privacy.html
+Content Type: text/html
+
+Uri: https://gettrumpmemes.com/terms
+File Name: D:\Website\Cyotek\gettrumpmemes.com\terms.html
+Content Type: text/html
+
+Uri: https://use.typekit.net/tkq1swc.js
+File Name: D:\Website\Cyotek\gettrumpmemes.com\tkq1swc.js
+Content Type: text/javascript
+
